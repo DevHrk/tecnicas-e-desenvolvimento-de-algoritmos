@@ -17,17 +17,31 @@ Desenvolver a capacidade de pensar algoritmicamente, aplicando técnicas fundame
 ## 📂 Estrutura do Repositório
 
 tecnicas-e-desenvolvimento-de-algoritmos/
+
 ├── algoritmos_basicos/
+
 │ ├── soma_elementos.py
+
 │ ├── busca_linear.py
+
 │ └── ordenacao_bubble_sort.py
+
 ├── recursao/
+
 │ ├── fatorial.py
+
 │ └── fibonacci.py
+
 ├── divide_conquista/
+
 │ └── merge_sort.py
+
 ├── dinamica/
+
 │ └── mochila_dp.py
+
 ├── grafos/
+
 │ └── busca_em_largura.py
+
 ├── README.md
