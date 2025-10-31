@@ -13,7 +13,7 @@ def jogo_adivinhacao():
         try:
             palpite = int(input(f"Tentativa {tentativas + 1}/{max_tentativas} - Digite seu palpite: "))
         except ValueError:
-            print("❗ Por favor, digite um número válido.")
+            print(" Por favor, digite um número válido.")
             continue
 
         tentativas += 1
